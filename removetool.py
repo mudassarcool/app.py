@@ -5,7 +5,7 @@ import io
 
 # --- CONFIGURATION ---
 # Replace 'YOUR_API_KEY' with the key you got from remove.bg
-API_KEY = 'YOUR_API_KEY'
+API_KEY = 'rFyj8cLX8FabQ1acaQ3ztraw'
 
 st.set_page_config(page_title="AI Image Studio", layout="wide")
 
